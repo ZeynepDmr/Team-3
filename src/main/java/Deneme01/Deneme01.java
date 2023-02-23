@@ -5,5 +5,6 @@ public class Deneme01 {
         System.out.println("master nerdesin?");//v1
         System.out.println("Ozlemin kedisi bulundu");//v2
         System.out.println("branch olusturma");//v3
+        System.out.println("Ceren derse geldi");//v5
     }
 }
