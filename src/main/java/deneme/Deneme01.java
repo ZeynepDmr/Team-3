@@ -9,5 +9,8 @@ public class Deneme01 {
             
   
 System.out.println(" kubra yapti ");
+
+
+        System.out.println("fatma");
     }
 }
